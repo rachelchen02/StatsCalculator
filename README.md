@@ -1,2 +1,2 @@
 # StatsCalculator
-This is the mid-semester mini-project of a statistics calculator.
+This is the mid-semester mini-project of a statistics calculator. To use it, follow the instructions on the main menu. To input numbers into the calculator, type 1. Make sure to input numbers one by one, and type "done" when complete. To run a calculation, type the number that corresponds to the operation you want to perform as it appears on the main menu. To exit out of the calculator, type 8. 
